@@ -1288,7 +1288,7 @@ nav.scrolled {
     }
 
     .about-section {
-        height: 100vh;
+        height: auto;
     }
 
     .about-overlay {

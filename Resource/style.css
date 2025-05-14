@@ -1263,6 +1263,10 @@ nav.scrolled {
 }
 
 @media (max-width: 768px) {
+    .hero {
+        height: 90vh;
+    }
+    
     .hero-title {
         font-size: 3rem;
     }
@@ -1288,7 +1292,7 @@ nav.scrolled {
     }
 
     .about-section {
-        height: auto;
+        height: 150vh;
     }
 
     .about-overlay {
